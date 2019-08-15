@@ -1,0 +1,6 @@
+[submodule "circomwasm/websnark"]
+	path = circomwasm/websnark
+	url = https://github.com/iden3/websnark
+[submodule "circom_wasm/websnark"]
+	path = circom_wasm/websnark
+	url = https://github.com/iden3/websnark
